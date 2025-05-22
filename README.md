@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Niktha sri Tirlangi</h1>
 <h3 align="center">A passionate student and tech enthusiast from India</h3>
 
-- I’m currently learning **SQL,DevOps,AWS**
+- I’m currently learning **DevOps**
 
 - How to reach me **tirlanginikithasri1234@gmail.com**
 
